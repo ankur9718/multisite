@@ -1,0 +1,9 @@
+{
+  "sitecore": {
+    "instancePath": "..\\..\\docker\\deploy\\platform\\",
+    "apiKey": "blptR1JTOVVmYXdya1o3Y09QMFI3TnBZTEg2T0d1OHJBNzUwWmlocW56cz18eG0tZWRnZS1uZXh0anM=",
+    "deploySecret": "4A1C770E4F3540B986CEF38186B86E0A",
+    "deployUrl": "https://edge-beta.sitecorecloud.io/api/graphql/v1",
+    "layoutServiceHost": "https://edge-beta.sitecorecloud.io"
+  }
+}
